@@ -1,0 +1,15 @@
+{
+  "name": "backendmajorproject-",
+  "version": "1.0.0",
+  "description": "This is the learning series where i have made the youtube backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "backend",
+    "adiya"
+  ],
+  "author": "Aditya Kumar",
+  "license": "ISC"
+}
