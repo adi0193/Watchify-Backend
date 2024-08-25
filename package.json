@@ -3,13 +3,17 @@
   "version": "1.0.0",
   "description": "This is the learning series where i have made the youtube backend",
   "main": "index.js",
+  "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "backend",
     "adiya"
   ],
   "author": "Aditya Kumar",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
 }
